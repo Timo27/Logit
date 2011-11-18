@@ -10,7 +10,10 @@ class IndexController extends Zend_Controller_Action
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
 =======
 >>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
 =======

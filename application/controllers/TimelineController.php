@@ -1,7 +1,11 @@
 <?php
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 class Timelinecontroller extends Zend_Controller_Action {
+=======
+class TimelineController extends Zend_Controller_Action {
+>>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
 =======
 class TimelineController extends Zend_Controller_Action {
 >>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
@@ -15,6 +19,7 @@ class TimelineController extends Zend_Controller_Action {
     }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
    
 	public function indexAction()
@@ -25,6 +30,8 @@ class TimelineController extends Zend_Controller_Action {
 =======
 =======
 >>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
+=======
+>>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
     
     public function index(){
     	
@@ -32,6 +39,9 @@ class TimelineController extends Zend_Controller_Action {
 
    
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
+=======
 >>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
 =======
 >>>>>>> ae78481d54e2628fdbe7fb4e38470941053a3bbb
